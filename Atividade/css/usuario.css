@@ -1,0 +1,39 @@
+.usuario{
+  width: 695px;
+  height: 520px;
+  margin-top: 125px;
+  margin-left: 430px;
+  background-color: #C0C0C0;
+  border-radius: 5px;
+}
+.form{
+  width: 680px;
+  height: 130px;
+  margin-top: -650px;
+  margin-left: 10px;
+  background-color: #C0C0C0;
+  border-radius: 5px;
+}
+.fsusuarios{
+  margin-top: 10px;
+  width: 660px;
+  height: 350px;
+  border-radius: 5px;
+  background-color: #DCDCDC;
+}
+.tbusuario{
+  background-color: #DCDCDC;
+  border-radius: 5px;
+  width: 660px;
+  height: 330px;
+}
+input{
+border-radius: 5px;
+background-color: #FFFFFF;
+}
+.tbusuario{
+  overflow-y: auto;
+}
+a{
+  text-decoration: none;
+}

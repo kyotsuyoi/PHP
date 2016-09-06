@@ -1,0 +1,49 @@
+*{
+    font-family: Calibri;
+    font-size: 18px;
+    font-weight: bolder;
+}
+.divLogin{
+    width: 240px;
+    height: 155px;
+    border-radius: 10px;
+    border: solid 1px;
+    border-color: #000000;
+    margin-left: 40%;
+    margin-top: 10%;
+}
+/* Login */
+.labelLogin{
+    margin-left: 5%;
+}
+.login{
+    margin-left: 5%;
+    width: 90%;
+}
+.login:hover{
+    border-color: #A9A9A9;
+}
+/* Fim Login */
+
+/* Inicio Senha */
+.labelSenha{
+    margin-left: 5%;
+}
+.password{
+    width: 90%;
+    margin-left: 5%;
+}
+.password:hover{
+    border-color: #A9A9A9;
+}
+/* Fim Senha */
+
+/* Botao login*/
+.btnLogin{
+    margin-left: 35px;
+    width: 175px;
+    border-radius: 5px;
+}
+.btnLogin:hover{
+    border-color: #A9A9A9;
+}

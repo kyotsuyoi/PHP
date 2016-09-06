@@ -1,0 +1,39 @@
+.menu{
+  width: 900px;
+  height: 630px;
+  margin: auto;
+  border-radius: 5px;
+}
+.barTop{
+  width: 900px;
+  height: 100px;
+  background-color: #A9A9A9;
+  border-radius: 5px;
+}
+.barLeft{
+  margin-top: 5px;
+  width: 200px;
+  height: 520px;
+  background-color: #A9A9A9;
+  border-radius: 5px;
+}
+.btnmenu{
+  width: 190px;
+  height: 40px;
+  margin-top: 5px;
+  margin-left: 5px;
+  border: none;
+  background-color: #A9A9A9;
+  border-radius: 5px;
+  border:solid 1px;
+  font-weight: bolder;
+}
+.btnmenu:hover{
+  background-color: #C0C0C0;
+  border-radius: 5px;
+}
+p{
+  position: absolute;
+  margin-top: -55px;
+  margin-left: 110px;
+}

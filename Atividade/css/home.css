@@ -1,0 +1,52 @@
+.home{
+  width: 695px;
+  height: 520px;
+  background-color: #A9A9A9;
+  margin-top: -525px;
+  margin-left: 32%;
+  border-radius:5px;
+}
+.posts{
+  width: 695px;
+  height: 150px;
+  background-color: #D3D3D3;
+  overflow-y: auto;
+  border-radius: 5px;
+}
+.comentarios{
+  width: 695px;
+  height: 300px;
+  background-color: #DCDCDC;
+  border-radius: 5px;
+  overflow-y: auto;
+  word-break: break-all;
+  overflow-x:hidden;
+  overflow-y:visible;
+}
+a{
+  text-decoration: none;
+  color: #000000;
+}
+.txtcomentario{
+  resize: none;
+  margin-top: 5px;
+  margin-left: 5px;
+  position: absolute;
+  width: 590px;
+  border-radius: 5px;
+}
+.btncomentar{
+  width: 75px;
+  height: 30px;
+  border-radius: 5px;
+  margin-top: 10px;
+  background-color: #FFFFFF;
+  float: right;
+  margin-right: 10px;
+}
+.upload{
+position: absolute;
+margin-top: 45px;
+margin-left: 5px;
+border-radius: 5px;
+}
